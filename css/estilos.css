@@ -4,5 +4,8 @@ body{
 }
 
 .seccion{
-    color: brown;
+    color: white;
+    font-size: 100px;
+    border: brown solid 3px;
+    background-color: black;
 }
